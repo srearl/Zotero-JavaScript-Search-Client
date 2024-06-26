@@ -9,8 +9,8 @@ user or group library
 
 Live demos:
 
-* [Basic example](https://ble-lter.github.io/Zotero-JavaScript-Search-Client/minimal.html)
-* [Complete example](https://ble-lter.github.io/Zotero-JavaScript-Search-Client/complete.html)
+* [Basic example](https://srearl.github.io/Zotero-JavaScript-Search-Client/minimal.html)
+* [Complete example](https://srearl.github.io/Zotero-JavaScript-Search-Client/complete.html)
 
 ## Motivation
 
